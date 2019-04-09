@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.otpam.appname" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>App Name</name>
+<widget id="com.infitt.hertz" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>HERTZ</name>
     <description>
-     Mobile App Training
+     ரகரம் மற்றும் றகரம் எழுத்துகளைக் கொண்ட சொற்களைச் சரியாகவும் முறையாகவும் உச்சரிக்க இந்த செயலி உறுதுணையாக உள்ளது.
     </description>
     <author email="info@otpam.com" href="http://otpam.com">
    OTPAM
